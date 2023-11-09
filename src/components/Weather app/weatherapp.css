@@ -1,0 +1,77 @@
+.container{
+    width:607px;
+    height:829px;
+    margin:auto;
+    margin-top:75px;
+    border-radius:12px;
+    background-image: linear-gradient(160deg, #ac6b12 0%,#5b51a8 100%);
+
+}
+.top{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:12px;
+    gap:12px;
+}
+.cityname{
+    display:flex;
+    border-radius:40px;
+    color: #626262;
+    width:270px;
+    height:50px;
+    background:#ebfffc;
+    font-size:14px;
+    font-weight:400;
+    padding-left:40px;
+
+}
+.search-icon{
+    border-radius:42px;
+    justify-content: center;
+    align-items: center;
+    background: #ebfffc;
+    width:40px;
+    height:40px;
+    display:flex;
+    cursor:pointer;
+    
+}
+.wti{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin:29px;
+}
+.wtemp{
+    display:flex;
+     justify-content: center;
+     align-items: center;
+     color:whitesmoke;
+     font-weight: 400;
+     font-size: 100px;
+
+}
+.wloc{
+    display:flex;
+     justify-content: center;
+     align-items: center;
+     color:whitesmoke;
+     font-weight: 400;
+     font-size: 100px;
+}
+.data-container{
+    margin-top:50px;
+    color:whitesmoke;
+    display:flex;
+    justify-content: center;
+}
+.element{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:49px;
+    color: whitesmoke;
+    gap:10px;
+
+}
